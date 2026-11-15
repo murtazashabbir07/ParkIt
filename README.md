@@ -1,2 +1,2 @@
-# ParkIt_CS_101_Semester_Project
+# ParkIt
 Car Parking Management System
